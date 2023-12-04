@@ -5,13 +5,13 @@ day,amount(Euro),shop and means of payment.The main goal is to track how i made 
 python language to make the analysis. To work with a data, it was ideal to check the data in order to understand it.
 
 # QUESTIONS POSED
-# Which shop have i visted mostly?
+## Which shop have i visited mostly?
 
-# Which mode of payment has been used frequently?
+## Which mode of payment has been used frequently?
 
-# Which day in the week have i shopped frequently?
+## Which day in the week have i shopped frequently?
 
-# How much have i spent so far and the average spent?
+## How much have i spent so far and the average spent?
 
-# What is the highest and the lowest purchased made?
+## What is the highest and the lowest purchased made?
 
