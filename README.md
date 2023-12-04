@@ -1,5 +1,6 @@
 # Analysing_mydata
 WORKING ON PROJECTS
+
 The data is a primary data which was collected by myself tracking the purchases made within a period.It comprises of 5 columns namely the date,
 day,amount(Euro),shop and means of payment.The main goal is to track how i made these purchase.Several questions were posed and to answer them i worked with 
 python language to make the analysis. To work with a data, it was ideal to check the data in order to understand it.
