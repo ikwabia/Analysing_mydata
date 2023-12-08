@@ -15,4 +15,5 @@ python language to make the analysis. To work with a data, it was ideal to check
 ## How much have i spent so far and the average spent?
 
 ## What is the highest and the lowest purchased made?
+To answer these questions and explore other insights of the data,click https://colab.research.google.com/github/ikwabia/Analysing_mydata/blob/main/Purchase_analysis.ipynb
 
